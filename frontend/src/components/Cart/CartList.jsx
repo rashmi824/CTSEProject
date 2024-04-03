@@ -3,7 +3,7 @@ import { Row, Col } from "react-bootstrap";
 import CartProductCard from "./CartProductCard";
 import CartListTitles from "./CartListTitles";
 import "./cartstyle.css";
-import { Cartcontext } from "../../context/Context";
+import { Cartcontext } from "../../context/Context";//hihi
 
 
 export default function CartList() {
